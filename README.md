@@ -30,9 +30,33 @@ I’m a **Computer Science student** focused on developing real-world solutions 
 ---
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### **Languages**
+`JavaScript` | `Python` | `C++`
+
+### **Web Dev**
+`React.js` | `Node.js` | `Express.js` | `MongoDB`
+
+### **AI/ML & CV**
+`Scikit-learn` | `OpenCV` | `NumPy` | `Pandas`
 
 ---
 
-## 📈 My Stats
-![Aanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aanshib&show_icons=true&theme=radical)
+## 📊 Beyond the Code
+* 🧩 **Consistent DSA practice** to sharpen logic & efficiency
+* 👩‍💻 **Active in team-based development** & mentoring
+* 🚀 **Exploring scalable architectures** & intelligent systems
+
+---
+
+## 🔍 Explore More
+✨ I’ve worked on a diverse set of projects across web development and AI.
+👉 **Feel free to explore my repositories** to see the full spectrum of my work!
+
+---
+
+## 📫 Connect With Me
+* 💼 **LinkedIn:** [linkedin.com/in/aanshi-bansal-982a57336]
+* 📧 **Email:** [aanshibansal09@gmail.com]
+
+⭐ *Always open to collaboration, innovation, and building something impactful.*
