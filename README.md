@@ -24,7 +24,7 @@ I’m a **Computer Science student** focused on developing real-world solutions 
 ### 🔹 [Luna – Skincare Assistant](link-to-your-repo)
 *AI-powered skincare recommendations.*
 
-### 🔹 [Automated Traffic System](link-to-your-repo)
+### 🔹 [Kolam Design](link-to-your-repo)
 *Using Digital Image Processing to manage Chandigarh's traffic density.*
 
 ---
