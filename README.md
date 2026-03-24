@@ -27,20 +27,7 @@ I’m a **Computer Science student** focused on developing real-world solutions 
 ### 🔹 [Kolam Design](https://github.com/aanshib/kolam)
 *Using Digital Image Processing to manage Chandigarh's traffic density.*
 
----
 
-## 🛠️ Tech Stack
-
-### **Languages**
-`JavaScript` | `Python` | `C++`
-
-### **Web Dev**
-`React.js` | `Node.js` | `Express.js` | `MongoDB`
-
-### **AI/ML & CV**
-`Scikit-learn` | `OpenCV` | `NumPy` | `Pandas`
-
----
 
 ## 📊 Beyond the Code
 * 🧩 **Consistent DSA practice** to sharpen logic & efficiency
