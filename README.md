@@ -18,13 +18,13 @@ I’m a **Computer Science student** focused on developing real-world solutions 
 
 ## ✨ Featured Work
 
-### 🔹 [Mood Tracker](link-to-your-repo)
+### 🔹 [Mood Tracker](https://github.com/aanshib/Mood-Tracker)
 *Smart mental wellness tracker with insights based on user emotions.*
 
-### 🔹 [Luna – Skincare Assistant](link-to-your-repo)
+### 🔹 [Luna – Skincare Assistant](https://github.com/aanshib/Luna_)
 *AI-powered skincare recommendations.*
 
-### 🔹 [Kolam Design](link-to-your-repo)
+### 🔹 [Kolam Design](https://github.com/aanshib/kolam)
 *Using Digital Image Processing to manage Chandigarh's traffic density.*
 
 ---
